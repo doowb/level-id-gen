@@ -29,6 +29,19 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "*"
+    "async": "^1.0.0",
+    "bytewise": "^1.0.0",
+    "id-gen": "^0.3.2",
+    "level": "^1.0.0",
+    "level-defaults": "^0.1.0",
+    "level-sublevel": "^6.4.6",
+    "mkdirp": "^0.5.1",
+    "mocha": "*",
+    "rimraf": "^2.3.4"
+  },
+  "dependencies": {
+    "digits": "^0.2.0",
+    "extend-shallow": "^1.1.4",
+    "levelplus": "0.0.5"
   }
 }
