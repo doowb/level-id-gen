@@ -17,12 +17,12 @@ var levelIdGen = require('level-id-gen');
 ## API
 
 <!-- add a path or glob pattern for files with code comments to use for docs  -->
-{%= apidocs("index.js") %}
 
 ## Related projects
 
 <!-- add an array of related projects, then un-escape the helper -->
-{%= related([]) %}  
+* [id-gen](https://github.com/doowb/id-gen): Generator ids in sequence using defaults or a custom id generator function.
+* [level](https://github.com/Level/level): Fast & simple storage - a Node.js-style LevelDB wrapper (a convenience package bundling LevelUP &… [more](https://github.com/Level/level)
 
 ## Running tests
 
