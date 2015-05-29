@@ -17,15 +17,7 @@ var opts = {
 };
 
 var dbPath = path.join(__dirname, '.data');
-var tables = [
-  'product',
-  'contact',
-  'account',
-  'user',
-  'item',
-  'invoice',
-  'order'
-];
+var tables = ['foo', 'bar', 'baz'];
 
 var db = null;
 var ids = null;
