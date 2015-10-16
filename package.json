@@ -43,5 +43,12 @@
     "digits": "^0.2.0",
     "extend-shallow": "^1.1.4",
     "levelplus": "0.0.5"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Brian Woodward",
+      "email": "brian.woodward@gmail.com",
+      "url": "https://github.com/doowb"
+    }
+  ]
 }
